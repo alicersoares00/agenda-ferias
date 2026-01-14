@@ -89,8 +89,3 @@ Você pode usar, modificar e distribuir livremente, desde que mantenha os crédi
 
 ## Autor
 
-- **Alice Soares**
-- GitHub: @alicersoares00 [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Falicersoares00")
-```
-
-👉 Quer que eu te ajude a criar também um **badge estilizado** (aqueles ícones de status, versão, linguagem) no topo do README para deixar ainda mais bonito
