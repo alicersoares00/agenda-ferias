@@ -88,4 +88,6 @@ Você pode usar, modificar e distribuir livremente, desde que mantenha os crédi
 ---
 
 ## Autor
+Alice Soares 
+
 
