@@ -1,5 +1,6 @@
 # Agenda de Férias!
 
+COLOQUE NO MODO CLARO PARA MELHOR VISUALIZAÇÃO!
 Um projeto em **React + Vite** para planejar e decorar os dias das férias com fotos e adesivos.  
 Cada card representa um dia, onde você pode escrever atividades, adicionar imagens e colar adesivos.
 
