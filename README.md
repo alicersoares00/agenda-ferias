@@ -1,16 +1,96 @@
-# React + Vite
+# Agenda de Férias!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um projeto em **React + Vite** para planejar e decorar os dias das férias com fotos e adesivos.  
+Cada card representa um dia, onde você pode escrever atividades, adicionar imagens e colar adesivos.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Como rodar localmente
 
-## React Compiler
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/alicersoares00/agenda-ferias.git
+   ```
+2. Entre na pasta:
+   ```bash
+   cd agenda-ferias
+   ```
+3. Instale as dependências:
+   ```bash
+   npm install
+   ```
+4. Rode o servidor de desenvolvimento:
+   ```bash
+   npm run dev
+   ```
+5. Abra no navegador o link indicado (geralmente `http://localhost:5173`).
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🌐 Deploy
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Acesse a versão online hospedada no Vercel:  
+👉 https://agenda-ferias-iota.vercel.app/
+
+
+## 🛠️ Tecnologias
+
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- JavaScript (ES6+)
+- CSS
+
+---
+
+## 📂 Estrutura do projeto
+
+```
+src/
+ ├── components/
+ │   ├── DayCard.jsx
+ │   └── MostrarFrase.jsx
+ ├── App.jsx
+ ├── main.jsx
+public/
+ ├── stickers/
+ └── vite.svg
+```
+
+---
+
+## Roadmap
+
+- [ ] Adicionar mais adesivos
+- [ ] Permitir salvar cards em PDF
+- [ ] Criar versão mobile responsiva
+- [ ] Adicionar opção de compartilhar cards
+
+---
+
+## Contribuição
+
+Contribuições são bem-vindas!  
+Para colaborar:
+
+1. Faça um fork do projeto
+2. Crie uma branch (`git checkout -b feature/nova-feature`)
+3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`)
+4. Push (`git push origin feature/nova-feature`)
+5. Abra um Pull Request
+
+---
+
+## Licença
+
+Este projeto está sob a licença MIT.  
+Você pode usar, modificar e distribuir livremente, desde que mantenha os créditos.
+
+---
+
+## Autor
+
+- **Alice Soares**
+- GitHub: @alicersoares00 [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Falicersoares00")
+```
+
+👉 Quer que eu te ajude a criar também um **badge estilizado** (aqueles ícones de status, versão, linguagem) no topo do README para deixar ainda mais bonito?
